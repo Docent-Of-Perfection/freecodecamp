@@ -5,7 +5,7 @@ function factorialize(num) {
   
 answer = 1;
   for(x=2;x<=num;x++){
-    answer= answer * x;
+    answer *= x;
     console.log(answer + " *= " + x)
   }
  return answer;
