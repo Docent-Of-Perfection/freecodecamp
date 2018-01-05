@@ -17,6 +17,6 @@ I lazied out on making this work in a real for loop, I'm used to JS syntax and u
 from math import factorial
 def factori(n):
         return factorial(n)
-n=int(input("Input a number to compute the factiorial : "))
+n=int(input("Input a number to compute the factorial : "))
 print(factori(n))
 */
