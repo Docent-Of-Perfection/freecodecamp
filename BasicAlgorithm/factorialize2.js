@@ -11,3 +11,12 @@ answer = 1;
  return answer;
 }
 
+/*WORKING CODE IN PYTHON
+I lazied out on making this work in a real for loop, I'm used to JS syntax and ultimately opted to just import the builtin from math
+
+from math import factorial
+def factori(n):
+        return factorial(n)
+n=int(input("Input a number to compute the factiorial : "))
+print(factori(n))
+*/
